@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "expo-router-babel-reanimated-crash",
+    "slug": "expo-router-babel-reanimated-crash"
+  }
+}
